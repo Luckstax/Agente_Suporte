@@ -1,0 +1,27 @@
+[
+  {
+    "id": "TKT-192.168.0.10-0001",
+    "ip_maquina": "192.168.0.10",
+    "nome": "Fulano de Tal",
+    "email_usuario": "fulano@empresa.com.br",
+    "setor": "Financeiro",
+    "descricao_erro": "Impressora não está imprimindo",
+    "solucao_sugerida": "Verificar conexão da impressora e reinstalar o driver",
+    "criado_em": "01/01/2026 09:00",
+    "status": "aberto",
+    "resolucao": ""
+  },
+  {
+    "id": "TKT-192.168.0.11-0001",
+    "ip_maquina": "192.168.0.11",
+    "nome": "Ciclana Souza",
+    "email_usuario": "ciclana@empresa.com.br",
+    "setor": "RH",
+    "descricao_erro": "Não consegue acessar o sistema de ponto",
+    "solucao_sugerida": "Verificar conectividade e limpar cache do navegador",
+    "criado_em": "02/01/2026 14:30",
+    "status": "fechado",
+    "resolucao": "Problema era na rede local, corrigido pelo suporte",
+    "fechado_em": "02/01/2026 15:10"
+  }
+]
